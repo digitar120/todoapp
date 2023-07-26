@@ -19,7 +19,7 @@ Se creará una API REST para gestionar tareas personales. Cada tarea deberá gua
 
 **Requisitos No Funcionales**: Spring Boot, H2 y Swagger.
 
-## Dependencias (Initializr)
+## Dependencias
 *Nota: se debió usar Spring Boot 2.5.8 para evitar un problema de compatibilidad.*
 ### Initializr
 - Lombok
